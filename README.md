@@ -5,7 +5,9 @@
 
 **Automate EQ parameter entry from REW measurements into DSP software with precision and speed.**
 
-This automation tool eliminates the tedious manual process of transferring equalizer parameters (frequency, gain, Q values) from Room EQ Wizard (REW) measurements into DSP software interfaces. Originally developed for STEG DSP software, it provides a reliable solution for car audio enthusiasts and professionals working with room correction data.
+**Save hours of manual data entry and eliminate transcription errors in your audio tuning workflow.**
+
+This automation tool eliminates the tedious manual process of transferring equalizer parameters (frequency, gain, Q values) from Room EQ Wizard (REW) measurements into DSP software interfaces. It provides a reliable solution for car audio enthusiasts and professionals working with room correction data.
 
 ---
 
@@ -18,7 +20,7 @@ This repository hosts the release files for the REW-to-DSP-EQ-autofill-utility.
 1. On the right-hand side, locate the **"Releases"** section
 2. Click on the entry marked **"Latest release"** (or the highest version tag)
 3. Expand the **"Assets"** list
-4. Download the `DSP_EQ_Auto_Filler.exe` file
+4. Download the `REW_to_DSP_EQ_autofill_utility.exe` file
 5. Run the executable - no installation or Python required!
 
 **That's it!** The application is completely standalone and ready to use.
@@ -184,8 +186,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For feature requests or suggestions, email: pr4bh7ot@gmail.com
-
-**Save hours of manual data entry and eliminate transcription errors in your audio tuning workflow.**
 
 ---
 
